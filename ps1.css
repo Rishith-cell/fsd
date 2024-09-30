@@ -1,0 +1,32 @@
+div{
+    margin: 10px;
+}
+#header{
+    background-color: gray;
+    height: 50px;
+    width: 840px;
+}
+#footer{
+    background-color: green;
+    height: 50px;
+    width: 840px;
+    clear:left;
+}
+#left{
+    background-color: darkslateblue;
+    height: 300px;
+    width: 100px;
+    float:left;
+}
+#middle{
+    background-color: red;
+    height: 300px;
+    width: 600px;
+    float:left;
+}
+#right{
+    background-color: pink;
+    height: 300px;
+    width: 100px;
+    float:left;
+}

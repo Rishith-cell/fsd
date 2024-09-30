@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+   }
+.container {
+    margin: 50px auto;
+    padding: 50px;
+    border: 20px solid purple;
+    width: 500px;
+    background-color: white;
+}
+.title {
+    font-size: 24px;
+    background-color: purple;
+    font-weight: bold;
+}
+.subtitle {
+    font-size: 18px;
+    margin-top: 10px;
+}
